@@ -13,3 +13,4 @@ Reduced CSS coding down further and reduced code in html.
 
 Went back to start fresh from the added Title portion messed up the page to bad.
 
+Blended the Hero/content section in the html and CSS.
